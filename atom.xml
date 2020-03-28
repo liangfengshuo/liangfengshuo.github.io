@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liangfengshuo.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-28T03:48:13.074Z</updated>
+    <title>我的博客</title>
+    <updated>2020-03-28T06:23:02.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liangfengshuo.github.io"/>
     <link rel="self" href="https://liangfengshuo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这是一个有意思的网站</subtitle>
     <logo>https://liangfengshuo.github.io/images/avatar.png</logo>
     <icon>https://liangfengshuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 我的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[运气不会差]]></title>
+        <id>https://liangfengshuo.github.io/post/yun-qi-bu-hui-chai/</id>
+        <link href="https://liangfengshuo.github.io/post/yun-qi-bu-hui-chai/">
+        </link>
+        <updated>2020-03-28T06:20:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>爱笑的人，运气都不会差</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>爱笑的人，运气都不会差</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liangfengshuo.github.io/post/hello-gridea/</id>
