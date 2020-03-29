@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liangfengshuo.github.io</id>
-    <title>我的博客</title>
-    <updated>2020-03-28T06:23:02.394Z</updated>
+    <title>涼枫的博客</title>
+    <updated>2020-03-29T09:17:30.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liangfengshuo.github.io"/>
     <link rel="self" href="https://liangfengshuo.github.io/atom.xml"/>
     <subtitle>这是一个有意思的网站</subtitle>
     <logo>https://liangfengshuo.github.io/images/avatar.png</logo>
     <icon>https://liangfengshuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 我的博客</rights>
+    <rights>All rights reserved 2020, 涼枫的博客</rights>
     <entry>
         <title type="html"><![CDATA[运气不会差]]></title>
         <id>https://liangfengshuo.github.io/post/yun-qi-bu-hui-chai/</id>
@@ -23,35 +23,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[                       关于本博客的由来]]></title>
         <id>https://liangfengshuo.github.io/post/hello-gridea/</id>
         <link href="https://liangfengshuo.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>我之前上班，因为和网络方面没有任何关系，所以对网站博客这方面也接触的不多，也没有正经的建过网站，2020年初的疫情，让我在家呆了将近两个月的时间，我也没有什么事情可做，再加上工资本来不高，现在又没有任何收入，无奈的我只好在网络上寻找一些网络项目来做，为了推广这些项目我也就建了这个博客。</p>
+<p>当时刚想到建的时候，确实一头雾水，没有一点头绪，只是在度娘上搜索“怎么可以免费的个人博客”（经济条件问题，不想掏钱买域名和空间）看到更多的是在GITHUB  上面建站，就这样搜索教程，开始了建站之旅。</p>
+<p>当然也不是一帆风顺的，英文不是太好😟，所以就下载了GOOGL浏览器，带自动翻译的😜  从注册账号到设置各种问题，本来是打算用GIT工具的，但是一大串代码实在是头大，偶尔看见这个Gridea最新版本不需要用GIT工具，所以就下载了Gridea,</p>
+<p>这个软件真的很方便，但是在我弄好各种设置，远程测试的时候，总是链接不成功，再我搜了2个小时的教程后，花了一下午时间总算是弄好了，但是我感觉这个主题不太满意，该怎么弄里，算了先用默认的吧，以后有时间再研究吧</p>
+<p>就这样这个博客就形成了，虽然很简陋，毕竟花了我一下午的时间，真的很高兴，尽管打开速度不稳定，也算是属于自己的空间了</p>
+<pre><code>                               不喜勿喷，多多指教！🍺🍻🍻🍻🍻🍻🍻🍻🍻🍻
+</code></pre>
 ]]></content>
     </entry>
 </feed>
